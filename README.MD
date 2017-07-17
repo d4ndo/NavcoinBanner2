@@ -1,6 +1,6 @@
 # Navcoin Banner
 
-Banner Contest Jul 12
+Banner Contest Jul 19
 
 | Image | Resolution |
 |-------|------------|
@@ -20,9 +20,9 @@ https://www.fontsquirrel.com/fonts/alegreya-sans
 
 ## Image 
 
-
-
 http://www.uhdwallpapers.org/2014/04/submarine.html
+
+![submarine](https://github.com/d4ndo/NavcoinBanner2/blob/master/sub.jpg "sub")
 
 License: Public Domain CC0
 
